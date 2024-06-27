@@ -19,8 +19,8 @@
 <!-- LANGUAGE & TOOLS -->
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <th style="border: 1px solid #ddd; padding: 8px;">Lenguajes</th>
-    <th style="border: 1px solid #ddd; padding: 8px;">Herramientas</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
@@ -42,7 +42,7 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://github.com/">
-        <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
       </a>
     </td>
   </tr>
@@ -54,7 +54,7 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
       </a>
     </td>
   </tr>
@@ -64,23 +64,7 @@
         <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.postman.com/">
-        <img height="48px" width="48px" alt="Postman Icon" src="https://skillicons.dev/icons?i=postman"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.sql.org/">
-        <img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=postgres"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.microsoft.com/en-us/sql-server">
-        <img height="48px" width="48px" alt="SQL Server Icon" src="https://skillicons.dev/icons?i=mssql"/>
-      </a>
-    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
 </table>
 
