@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hola!+👋;Bienvenidos+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
-<img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
+<img align="right" alt ="coding" width="550" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Escudero Jeremias**
