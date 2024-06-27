@@ -1,48 +1,96 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- SVG TYPING -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Moustapha+Ibrahima+Ba+👨🏾;I+am+a+computer+science+engineering+student+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<!-- ILLUSTRATION'S IMAGE -->
+<img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<!-- DESCRIPTION -->
+👨🏾‍💻 **Escudero Jeremias**
 
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+Tengo 22 años, resido en Córdoba, Argentina. 📚 
 
-<!-- BREVE DESCRIPCION -->
-- 📚 Actualmente me encuentro estudiando en la [Universidad Tecnológica Nacional - Regional Córdoba](https://www.frc.utn.edu.ar/)
+Soy un estudiante avanzado de Ingeniería en Sistemas de Informción y me encuentro cursando una Diplomatura en Desarrollo web Full Stack🧑🏾‍🎓  
 
-- 🌱 Estudiante avanzado en **Ingeniería en Sistemas de Información** y **Diplomatura en Desarrollo Full Stack**
+En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
 
-- 📫 Dirección de e-mail: **jeremiasescudero67@gmail.com**
+Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link">aquí</a>
 
-<!-- CONTACTO -->
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jeremias-escudero-aa0760302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremias escudero" height="30" width="40" /></a>
-<a href="https://x.com/i/flow/login?redirect_after_login=%2Fjereescu213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jereescu213" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jeremiasescudero_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeremiasescudero" height="30" width="40" /></a>
+
+<!-- LANGUAGE & TOOLS -->
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 8px;">Lenguajes</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Herramientas</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://code.visualstudio.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://github.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://git-scm.com/">
+        <img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.python.org/">
+        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.postman.com/">
+        <img height="48px" width="48px" alt="Postman Icon" src="https://skillicons.dev/icons?i=postman"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.sql.org/">
+        <img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=postgres"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.microsoft.com/en-us/sql-server">
+        <img height="48px" width="48px" alt="SQL Server Icon" src="https://skillicons.dev/icons?i=mssql"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- QUOTE -->
+<p align="right">
+    <q>Passion drives me, Curiosity guides me</q> <br> 
+    - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
 </p>
 
-<!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
-
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andermendoza&layout=compact&theme=gotham&langs_count=8"/>
-</div>
-
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ------
+Credit: [mr-mib](https://github.com/mr-mib)
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
-
-Last Edited on: 26/09/2022
+Last Edited on: 01/06/2024
