@@ -42,7 +42,7 @@ Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://github.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+        <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
       </a>
     </td>
   </tr>
@@ -83,6 +83,7 @@ Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg
     </td>
   </tr>
 </table>
+
 
 <!-- QUOTE -->
 <p align="right">
