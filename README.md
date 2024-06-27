@@ -87,11 +87,6 @@ Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg
 
 <!-- QUOTE -->
 <p align="right">
-    <q>Passion drives me, Curiosity guides me</q> <br> 
+    <q>La pasión me mueve, la curiosidad me guía.</q> <br> 
     - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
 </p>
-
-------
-Credit: [mr-mib](https://github.com/mr-mib)
-
-Last Edited on: 01/06/2024
