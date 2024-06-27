@@ -1,5 +1,5 @@
 <!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Moustapha+Ibrahima+Ba+👨🏾;I+am+a+computer+science+engineering+student+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hola!+👋;Bienvenidos+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
@@ -7,13 +7,13 @@
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Escudero Jeremias**
 
-Tengo 22 años, resido en Córdoba, Argentina. 📚 
+-Tengo 22 años, resido en Córdoba, Argentina. 📚 
 
-Soy un estudiante avanzado de Ingeniería en Sistemas de Informción y me encuentro cursando una Diplomatura en Desarrollo web Full Stack🧑🏾‍🎓  
+-Soy un estudiante avanzado de Ingeniería en Sistemas de Informción y me encuentro cursando una Diplomatura en Desarrollo web Full Stack🧑🏾‍🎓  
 
-En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
+-En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
 
-Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link">aquí</a>
+-Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link">aquí</a>
 
 
 <!-- LANGUAGE & TOOLS -->
