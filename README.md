@@ -7,13 +7,13 @@
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Escudero Jeremias**
 
--Tengo 22 años, resido en Córdoba, Argentina. 📚 
+- Tengo 22 años, resido en Córdoba, Argentina. 📚 
 
--Soy un estudiante avanzado de Ingeniería en Sistemas de Informción y me encuentro cursando una Diplomatura en Desarrollo web Full Stack🧑🏾‍🎓  
+- Soy un estudiante avanzado de Ingeniería en Sistemas de Información y me encuentro cursando una Diplomatura en Desarrollo web Full Stack 🧑🏾‍🎓  
 
--En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
+- En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
 
--Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link">aquí</a>
+- Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link">aquí</a>
 
 
 <!-- LANGUAGE & TOOLS -->
@@ -42,7 +42,7 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://github.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+        <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
       </a>
     </td>
   </tr>
@@ -54,14 +54,26 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+        <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
       </a>
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+      <a href="https://reactjs.org/">
+        <img height="48px" width="48px" alt="React Icon" src="https://skillicons.dev/icons?i=react"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.postman.com/">
+        <img height="48px" width="48px" alt="Postman Icon" src="https://skillicons.dev/icons?i=postman"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.microsoft.com/en-us/sql-server">
+        <img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=sql"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
