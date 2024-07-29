@@ -76,7 +76,6 @@
         <img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=sql"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
 </table>
 
