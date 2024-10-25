@@ -7,7 +7,7 @@
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Escudero Jeremias**
 
-- Tengo 22 años, resido en Córdoba, Argentina. 📚 
+- Tengo 23 años, resido en Córdoba, Argentina. 📚 
 
 - Soy un estudiante avanzado de Ingeniería en Sistemas de Información y me encuentro cursando una Diplomatura en Desarrollo web Full Stack 🧑🏾‍🎓  
 
