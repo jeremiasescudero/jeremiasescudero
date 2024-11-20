@@ -13,7 +13,7 @@
 
 - En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
 
-- Mi CV <a href="[https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link]">aquí</a>
+- Mi CV <a href="https://drive.google.com/file/d/12mJ8hEEaDnRFZaW9QmMQ4F9WqsR4IwLg/view?usp=drive_link">aquí</a>
 
 
 <!-- LANGUAGE & TOOLS -->
