@@ -70,14 +70,19 @@
       </a>
     </td>
   </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://www.microsoft.com/en-us/sql-server">
         <img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=sql"/>
       </a>
     </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.python.org/">
+        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+      </a>
+    </td>
   </tr>
 </table>
-
 
 <!-- QUOTE -->
 <p align="right">
