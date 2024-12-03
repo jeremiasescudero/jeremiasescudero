@@ -1,4 +1,5 @@
 <!-- SVG TYPING -->
+<!-- SVG TYPING -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hola!+👋;Bienvenidos+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
@@ -17,10 +18,10 @@
 
 
 <!-- LANGUAGE & TOOLS -->
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
-    <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
+    <th style="text-align: left; border: 1px solid #ddd; padding: 8px;">Language</th>
+    <th style="text-align: left; border: 1px solid #ddd; padding: 8px;">Tools</th>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
@@ -30,7 +31,7 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
+        <img height="48px" width="48px" alt="VS Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
   </tr>
@@ -72,20 +73,15 @@
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.microsoft.com/en-us/sql-server">
-        <img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=sql"/>
+      <a href="https://www.python.org/">
+        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+      <a href="https://www.postgresql.org/">
+        <img height="48px" width="48px" alt="PostgreSQL Icon" src="https://skillicons.dev/icons?i=postgresql"/>
       </a>
     </td>
   </tr>
 </table>
 
-<!-- QUOTE -->
-<p align="right">
-    <q>La pasión me mueve, la curiosidad me guía.</q> <br> 
-    - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
-</p>
