@@ -10,9 +10,10 @@
 
 - Tengo 23 años, resido en Córdoba, Argentina. 📚 
 
-- Soy un estudiante avanzado de Ingeniería en Sistemas de Información y me encuentro cursando una Diplomatura en Desarrollo web Full Stack 🧑🏾‍🎓  
+- Soy un estudiante avanzado de Ingeniería en Sistemas de Información y me encuentro cursando una Diplomatura en Desarrollo web Full Stack 🧑🏾‍🎓
+- Entusiasta del Machine Learning y aficionado con la IA en general. 
 
-- En constante aprendizaje sobre nuevas herramientas para ampliarme en el campo IT.
+- En constante aprendizaje sobre nuevas herramientas para ampliarme en mi campo.
 
 - Mi CV <a href="https://drive.google.com/file/d/1aacf6zVqY694gzkR9B7P71zwliTByZOm/view">aquí</a>
 
